@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Realestate Management",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed a Real Estate Management System, reducing inquiry response time by 30%.",
+    url: "https://github.com/Harshibala07/Realestate_management",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Habit Tracker",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Built a habit tracker app with authentication, progress tracking, and multilingual UI.",
+    url: "https://github.com/Harshibala07/habit_tracker",
   },
   {
-    title: "My Resume Site",
+    title: "Employee Burnout Analysis",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed AI/ML model analyzing burnout, identifying key stress factors, enabling interventions.",
+    url: "https://github.com/Harshibala07/Employee-Burnout-Analysis",
   },
   {
     title: "GitHub Codespaces and github.dev",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Optimized machine downtime using data science, achieving 10% reduction in downtime.",
+    url: "https://github.com/Harshibala07/Optimization_of_machine_downtime",
   },
 ];
 
