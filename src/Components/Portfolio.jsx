@@ -49,7 +49,7 @@ const projectList = [
     url: "https://github.com/Harshibala07/Employee-Burnout-Analysis",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Optimization of Machine Downtime",
     description:
       "Optimized machine downtime using data science, achieving 10% reduction in downtime.",
     url: "https://github.com/Harshibala07/Optimization_of_machine_downtime",
